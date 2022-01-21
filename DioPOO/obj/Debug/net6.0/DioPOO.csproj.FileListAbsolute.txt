@@ -1,0 +1,15 @@
+C:\Users\Raphael\Desktop\c#\DioPOO\bin\Debug\net6.0\DioPOO.exe
+C:\Users\Raphael\Desktop\c#\DioPOO\bin\Debug\net6.0\DioPOO.deps.json
+C:\Users\Raphael\Desktop\c#\DioPOO\bin\Debug\net6.0\DioPOO.runtimeconfig.json
+C:\Users\Raphael\Desktop\c#\DioPOO\bin\Debug\net6.0\DioPOO.dll
+C:\Users\Raphael\Desktop\c#\DioPOO\bin\Debug\net6.0\ref\DioPOO.dll
+C:\Users\Raphael\Desktop\c#\DioPOO\bin\Debug\net6.0\DioPOO.pdb
+C:\Users\Raphael\Desktop\c#\DioPOO\obj\Debug\net6.0\DioPOO.csproj.AssemblyReference.cache
+C:\Users\Raphael\Desktop\c#\DioPOO\obj\Debug\net6.0\DioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Desktop\c#\DioPOO\obj\Debug\net6.0\DioPOO.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\c#\DioPOO\obj\Debug\net6.0\DioPOO.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\c#\DioPOO\obj\Debug\net6.0\DioPOO.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\c#\DioPOO\obj\Debug\net6.0\DioPOO.dll
+C:\Users\Raphael\Desktop\c#\DioPOO\obj\Debug\net6.0\ref\DioPOO.dll
+C:\Users\Raphael\Desktop\c#\DioPOO\obj\Debug\net6.0\DioPOO.pdb
+C:\Users\Raphael\Desktop\c#\DioPOO\obj\Debug\net6.0\DioPOO.genruntimeconfig.cache
