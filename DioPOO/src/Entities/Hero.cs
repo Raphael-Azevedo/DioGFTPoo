@@ -11,11 +11,6 @@ namespace DioPOO.src.Entities
             this.MP = MP;
         }
 
-        public Hero()
-        {
-            
-        }
-        
         public string Name { get; set; }  
         public int Level { get; set; }
         public string HeroType { get; set; }
