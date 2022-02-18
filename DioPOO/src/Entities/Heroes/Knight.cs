@@ -1,4 +1,6 @@
-namespace DioPOO.src.Entities.Heroes{
+
+namespace DioPOO.src.Entities.Heroes
+{
     public class Knight : Swordsman
     {
         public Knight(string Name, int Level, string HeroType, int HP, int MP, string Weapon) : base(Name, Level, HeroType, HP, MP, Weapon)
@@ -9,14 +11,17 @@ namespace DioPOO.src.Entities.Heroes{
             this.HP = HP;
             this.MP = MP;
             this.Weapon = Weapon;
+
         }
+
         public override string Attack()
         {
             return this.Name + " Atacou com a sua " + this.Weapon;
         }
 
-        public string SpearStab()
+        public string Spearstab()
         {
+
             return this.Name + " Lançou Estocada!";
         }
 

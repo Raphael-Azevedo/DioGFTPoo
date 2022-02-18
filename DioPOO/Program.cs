@@ -26,7 +26,7 @@ namespace DioPOO
                         Start();
                         break;
                     case "2":
-                        System.Console.WriteLine("Descrição do jogo");
+                        System.Console.WriteLine("Jogo criado para estudo de POO, como projeto da DIO!");
                         break;
                     default:
                         System.Console.WriteLine("Valor Inválido, Por favor digite sua opção novamente:");
@@ -35,8 +35,7 @@ namespace DioPOO
                 opcaoUsuario = Console.ReadLine();
             }
         }
-        //Duas opção primeira iniciar o game e a segunda é informações
-        //Informação da party
+
         public static void Start()
         {
             var Arus = new Knight("Arus", 23, "Cavaleiro", 469, 72, "Lança do Trovão");
@@ -52,17 +51,28 @@ namespace DioPOO
             System.Console.WriteLine(Topapa);
             System.Console.WriteLine(Wedge);
             System.Console.WriteLine();
-            Thread.Sleep(5000);
-            System.Console.WriteLine("Seu inimigo: ");
-            System.Console.WriteLine();
-            Thread.Sleep(5000);
-            System.Console.WriteLine("A batalha começou!!");
+            Thread.Sleep(1000);
+            System.Console.WriteLine(Arus.Attack());
+            System.Console.WriteLine(Arus.Bash());
+            System.Console.WriteLine(Arus.BrandishSpear());
+            System.Console.WriteLine(Arus.Spearstab());
+            System.Console.WriteLine(Arus.SwordMastery());
+            System.Console.WriteLine(Jennica.Attack());
+            System.Console.WriteLine(Jennica.Bless());
+            System.Console.WriteLine(Jennica.Heal());
+            System.Console.WriteLine(Jennica.HealAll());
+            System.Console.WriteLine(Jennica.Protect());
+            System.Console.WriteLine(Topapa.Attack());
+            System.Console.WriteLine(Topapa.Foco());
+            System.Console.WriteLine(Topapa.Heal());
+            System.Console.WriteLine(Topapa.Protect());
+            System.Console.WriteLine(Topapa.Storm());
+            System.Console.WriteLine(Wedge.Attack());
+            System.Console.WriteLine(Wedge.FinalStrike());
+            System.Console.WriteLine(Wedge.LightningCrash());
+            System.Console.WriteLine(Wedge.ThrowHuumaShuriken());
+            System.Console.WriteLine(Wedge.ThrowKunai());
 
-        }
-        public static void Battle()
-        {
-            System.Console.WriteLine("Seu turno");
-            
         }
 
     }

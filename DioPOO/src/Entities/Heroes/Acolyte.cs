@@ -1,4 +1,3 @@
-using DioPOO.src.ValueObject;
 
 namespace DioPOO.src.Entities.Heroes
 {
