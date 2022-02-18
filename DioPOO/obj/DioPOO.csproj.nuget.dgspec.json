@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raphael\\Desktop\\c#\\DioPOO\\DioPOO.csproj": {}
+    "D:\\REPOSITÓRIO\\DioPOO\\DioGFTPoo\\DioPOO\\DioPOO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raphael\\Desktop\\c#\\DioPOO\\DioPOO.csproj": {
+    "D:\\REPOSITÓRIO\\DioPOO\\DioGFTPoo\\DioPOO\\DioPOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raphael\\Desktop\\c#\\DioPOO\\DioPOO.csproj",
+        "projectUniqueName": "D:\\REPOSITÓRIO\\DioPOO\\DioGFTPoo\\DioPOO\\DioPOO.csproj",
         "projectName": "DioPOO",
-        "projectPath": "C:\\Users\\Raphael\\Desktop\\c#\\DioPOO\\DioPOO.csproj",
+        "projectPath": "D:\\REPOSITÓRIO\\DioPOO\\DioGFTPoo\\DioPOO\\DioPOO.csproj",
         "packagesPath": "C:\\Users\\Raphael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raphael\\Desktop\\c#\\DioPOO\\obj\\",
+        "outputPath": "D:\\REPOSITÓRIO\\DioPOO\\DioGFTPoo\\DioPOO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\visual studio\\sdk\\NuGetPackages"
